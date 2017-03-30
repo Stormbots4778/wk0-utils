@@ -2,9 +2,7 @@
 A set of utilities used to help manage FRC Week Zero events
 ___
 
-Utilities
-=========
-___
+# Utilities
 
 robot.bat
 ---------
